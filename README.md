@@ -1,10 +1,9 @@
 Computer-Networks Projects at RIT (Quarter: Spring 2013)
 ========================================================
 
-These folders contain code for all the mini-projects I worked on during the course "Data Communication And Networks" (Spring 2013).
-The project PDFs are in the respective subdirectories. They explain in detail about each of the project requirements and its description.
+These folders contain code for all the mini-projects I worked on during the course "Data Communication And Networks" (Spring 2013). (The project PDFs are in the respective subdirectories. They explain in detail about each of the project requirements and its description.)
 
-A brief abstract of each of the projects is provided below, further detals are in the PDF of the respective folder.: 
+A brief abstract of each of the projects is provided below, further detals are in the PDFs of the respective folders. 
 
 FTP:
 ---
